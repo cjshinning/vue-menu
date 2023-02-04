@@ -12,7 +12,7 @@
 
 <script>
 import level from './components/level.js'
-import myMenu from './components/my-menu.vue';
+import myMenu from './components/my-menu.jsx';
 export default {
   data() {
     return {
